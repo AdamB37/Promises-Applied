@@ -1,0 +1,23 @@
+{
+  "name": "promises_applied",
+  "version": "1.0.0",
+  "description": "--- authors:   - @punitrathore issueNumber: 186 teamSize: 1 ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "jshint promise-it-wont-hurt-solutions/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamB37/Promises-Applied.git"
+  },
+  "author": "Adam Beshir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamB37/Promises-Applied/issues"
+  },
+  "homepage": "https://github.com/AdamB37/Promises-Applied#readme",
+  "dependencies": {
+    "jshint": "^2.9.4"
+  }
+}
