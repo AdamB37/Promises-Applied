@@ -5,6 +5,10 @@ issueNumber: 186
 teamSize: 1
 ---
 
+## FOR REVIEWER
+
+change directories into the "promise-it-wont-hurt-solutions" and "pg-promise-exercises" and follow the readme files for instructions.
+
 # Promises Applied
 
 ## Challenge Rating
